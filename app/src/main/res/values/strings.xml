@@ -1,0 +1,21 @@
+<resources>
+   <string name = "app_name">task1_2</string>
+    <string-array name="grocery">
+        <item name="colour">milk</item>
+        <item name="colour">ghee</item>
+        <item name="colour">honey</item>
+        <item name="colour">hairwash</item>
+        <item name="colour">apple</item>
+        <item name="colour">banana</item>
+        <item name="colour">oreo</item>
+        <item name="colour">wheat</item>
+        <item name="colour">rice</item>
+        <item name="colour">carrot</item>
+        <item name="colour">gramflour</item>
+        <item name="colour">handwash</item>
+        <item name="colour">sanitiser</item>
+        <item name="colour">bodywash</item>
+        <item name="colour">chocolate</item>
+    </string-array>
+
+</resources>
